@@ -1,6 +1,6 @@
 
 def main():
-    print('hello')
+    print('This is a different message.')
 
 
 if __name__ == '__main__':
